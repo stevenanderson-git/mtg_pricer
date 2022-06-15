@@ -17,4 +17,5 @@ Images are .png and stored in card_data/card_images/
 Two files created with appended 'local' tags for images as they are saved with name_collectornumber.png
 1. backgrounds.json
 2. cobcreatures.json
-    
+
+New file to create background pairs... Currently working on implementing, then having the cards displayed.
